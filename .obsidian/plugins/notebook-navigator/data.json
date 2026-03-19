@@ -109,7 +109,7 @@
   "cmdCtrlEnterOpenContext": "split",
   "startView": "files",
   "showInfoButtons": true,
-  "homepage": null,
+  "homepage": "Index.base",
   "mobileHomepage": null,
   "useMobileHomepage": false,
   "dualPane": true,
@@ -196,9 +196,9 @@
   "inheritPropertyColors": true,
   "propertySortOrder": "alpha-asc",
   "showAllPropertiesFolder": true,
-  "defaultListMode": "compact",
+  "defaultListMode": "standard",
   "includeDescendantNotes": false,
-  "defaultFolderSort": "modified-desc",
+  "defaultFolderSort": "title-asc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
   "revealFileOnListChanges": true,
@@ -448,7 +448,13 @@
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
-  "folderIcons": {},
+  "folderIcons": {
+    "Kanvas": "image",
+    "Task": "check-circle",
+    "Harian": "calendar",
+    "Catatan": "sticky-note",
+    "Notulensi": "notebook-pen"
+  },
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
@@ -499,13 +505,13 @@
   ],
   "lastShownVersion": "2.5.1",
   "rootFolderOrder": [
-    "Harian",
     "Task",
+    "Harian",
     "Catatan",
     "Notulensi",
+    "Kanvas",
     "_attachments",
-    "_templates",
-    "Kanvas"
+    "_templates"
   ],
   "rootTagOrder": [],
   "rootPropertyOrder": []

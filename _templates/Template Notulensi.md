@@ -2,6 +2,7 @@
 aliases:
 tags:
   - Notulensi
+date:
 lokasi:
 instansi:
 satuan kerja:

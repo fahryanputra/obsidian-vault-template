@@ -10,6 +10,17 @@ filters:
         - file.folder != "_attachments"
         - file.folder != "_templates"
         - file.folder != "Tasks"
+properties:
+  file.name:
+    displayName: Judul
+  note.tags:
+    displayName: Tags
+  file.folder:
+    displayName: Folder
+  note.updated:
+    displayName: Update
+  note.date:
+    displayName: Tanggal
 views:
   - type: table
     name: MoC
@@ -18,9 +29,9 @@ views:
         - '!file.name.contains("Index")'
     order:
       - file.name
+      - date
       - tags
       - file.folder
-      - created
       - updated
   - type: table
     name: MoC - Catatan
@@ -29,8 +40,8 @@ views:
         - file.hasTag("Catatan")
     order:
       - file.name
+      - date
       - tags
-      - created
       - updated
   - type: table
     name: MoC - Harian
@@ -39,9 +50,9 @@ views:
         - file.hasTag("Harian")
     order:
       - file.name
+      - date
       - tags
       - file.folder
-      - created
       - updated
   - type: table
     name: MoC - Notulensi
@@ -50,12 +61,12 @@ views:
         - file.hasTag("Notulensi")
     order:
       - file.name
+      - date
       - tags
       - lokasi
       - instansi
       - satuan kerja
       - unit kerja
-      - created
       - updated
     sort:
       - property: date
