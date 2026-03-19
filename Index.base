@@ -1,0 +1,63 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+filters:
+  and:
+    - file.ext == "md"
+    - and:
+        - file.folder != "_attachments"
+        - file.folder != "_templates"
+        - file.folder != "Tasks"
+views:
+  - type: table
+    name: MoC
+    filters:
+      and:
+        - '!file.name.contains("Index")'
+    order:
+      - file.name
+      - tags
+      - file.folder
+      - created
+      - updated
+  - type: table
+    name: MoC - Catatan
+    filters:
+      and:
+        - file.hasTag("Catatan")
+    order:
+      - file.name
+      - tags
+      - created
+      - updated
+  - type: table
+    name: MoC - Harian
+    filters:
+      and:
+        - file.hasTag("Harian")
+    order:
+      - file.name
+      - tags
+      - file.folder
+      - created
+      - updated
+  - type: table
+    name: MoC - Notulensi
+    filters:
+      and:
+        - file.hasTag("Notulensi")
+    order:
+      - file.name
+      - tags
+      - lokasi
+      - instansi
+      - satuan kerja
+      - unit kerja
+      - created
+      - updated
+    sort:
+      - property: date
+        direction: DESC
+    columnSize: {}

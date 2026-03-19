@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4ebb7b01660c0366",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e6c4bf56573d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22117a2a79b039bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34f6da2bfe159317",
+    "type": "split",
+    "children": [
+      {
+        "id": "50eb65f225fd65d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a320d1a6cfb29991",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "4cd82641cea92cc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec219bffdb5449be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "079217340050e372",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "cc8ca4f29d9ee1ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "57b3d52e381132ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6387e8ba5512006",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task/Index.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Index"
+            }
+          },
+          {
+            "id": "3a482a5e3f329d3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task/Index.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "a1fecf83cd3bba45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8c562383a2e3141",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8cfca8cd363400e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task/Index.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "tasknotes:Create new task": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "notebook-navigator:Notebook Navigator": true,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "22117a2a79b039bc",
+  "lastOpenFiles": [
+    "Notulensi/Sample Notulensi.md",
+    "Notulensi/Index.md",
+    "Catatan/Sample Catatan.md",
+    "Harian/Index.md",
+    "Task/Index.base",
+    "README.md",
+    "Task/_views/agenda-default.base",
+    "Task/_views/calendar-default.base",
+    "Task/_views/mini-calendar-default.base",
+    "Task/_views/kanban-default.base",
+    "Task/tes at tomorrow.md",
+    "Kanvas/Drawing 2026-03-19 12.07.12.excalidraw.md",
+    "Canvas/Untitled.canvas",
+    "Excalidraw/Drawing 2026-03-19 12.04.27.excalidraw.md",
+    "Kanvas",
+    "Catatan/Sample Catatan2.canvas",
+    "Excalidraw",
+    "Catatan/Untitled.base",
+    "Harian/Untitled.md",
+    "Index.base",
+    "Untitled.md",
+    "Catatan/Index.md",
+    "Catatan/tes.md",
+    "Task/_views/relationships.base",
+    "Harian/2026/Sample Harian.md",
+    "Tes.md",
+    "Tasks/Tasks/Tes task.md",
+    "_templates/Template Notulensi.md",
+    "_templates/Template Harian.md",
+    "Notulensi/Pemaparan Bisnis Proses Pembangunan Sistem Registri Unit Karbon.md",
+    "Notulensi/Grand Design KLH-BPLH Integrated System.md",
+    "Notulensi/Sistem Informasi Geospasial KLH-BPLH.md",
+    "Notulensi/Integrasi Sistem KLH.md",
+    "Notulensi/Expose dan Training Decision Support System (DSS).md",
+    "Notulensi/20260319.md",
+    "Notulensi/Evaluasi Perkembangan Pembangunan Sistem Informasi Lingkungan Hidup (SILH).md",
+    "Notulensi/Evaluasi Penyelenggaraan Tim Tanggap Insiden Siber (TTIS).md"
+  ]
+}
