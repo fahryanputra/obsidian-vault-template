@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan/Halo Pusdatin Website.md",
+                "file": "_templates/Template Notulensi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Halo Pusdatin Website"
+              "title": "Template Notulensi"
             }
           }
         ]
@@ -227,25 +227,25 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "fff7623ca3dc9940",
+  "active": "a320d1a6cfb29991",
   "lastOpenFiles": [
+    "Harian/Index.md",
+    "Catatan/Index.md",
+    "Notulensi/Index.md",
+    "Index.base",
     "Task/Index.base",
     "Task/Buat fitur kirim nomor tiket via email.md",
     "Catatan/Halo Pusdatin Website.md",
     "Notulensi/Bimbingan Teknis Zoom dan DNS Lokal.md",
     "Notulensi/Evaluasi Penyelenggaraan Tim Tanggap Insiden Siber (TTIS).md",
     "Catatan/Sample Catatan.md",
-    "Notulensi/Index.md",
     "Notulensi/Intervensi Pengelolaan Sampah di Tingkat Nasional.md",
     "Notulensi/Integrasi Sistem KLH.md",
     "Notulensi/Integrasi Sistem Informasi Gambut.md",
     "Notulensi/Pembahasan SRN-Sistem Registri Unit Karbon.md",
     "Notulensi/Pembahasan Teknis Integrasi Chatbot SDMO dan Server KLH.md",
     "Notulensi/Pembahasan Web SPARING.md",
-    "Index.base",
-    "Harian/Index.md",
     "Harian/2026/Sample Harian.md",
-    "Catatan/Index.md",
     "Notulensi/Waste Crisis Master Plan.md",
     "_attachments/Waste Crisis Master Plan-1.png",
     "Notulensi/Tindak Lanjut Pembahasan Pengaduan dan Monitoring pada Website KLH-BPLH.md",
