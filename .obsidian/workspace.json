@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catatan/Sample Catatan.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sample Catatan"
+              "title": "README"
             }
           }
         ]
@@ -229,9 +229,9 @@
   },
   "active": "22117a2a79b039bc",
   "lastOpenFiles": [
+    "Catatan/Sample Catatan.md",
     "Notulensi/Sample Notulensi.md",
     "Notulensi/Index.md",
-    "Catatan/Sample Catatan.md",
     "Harian/Index.md",
     "Task/Index.base",
     "README.md",

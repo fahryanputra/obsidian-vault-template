@@ -283,7 +283,13 @@
     "_templates",
     "_attachments"
   ],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "README",
+      "match": "^README\\.md$",
+      "flags": "i"
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
