@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3d2d72e0d1ea11",
+        "id": "8a0c25ef9c5d25e0",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff235e990c54ef1",
+            "id": "fff7623ca3dc9940",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Catatan/Halo Pusdatin Website.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Halo Pusdatin Website"
             }
           }
         ]
@@ -213,15 +227,18 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "a320d1a6cfb29991",
+  "active": "fff7623ca3dc9940",
   "lastOpenFiles": [
-    "Notulensi/Evaluasi Penyelenggaraan Tim Tanggap Insiden Siber (TTIS).md",
+    "Task/Index.base",
+    "Task/Buat fitur kirim nomor tiket via email.md",
+    "Catatan/Halo Pusdatin Website.md",
     "Notulensi/Bimbingan Teknis Zoom dan DNS Lokal.md",
+    "Notulensi/Evaluasi Penyelenggaraan Tim Tanggap Insiden Siber (TTIS).md",
+    "Catatan/Sample Catatan.md",
     "Notulensi/Index.md",
     "Notulensi/Intervensi Pengelolaan Sampah di Tingkat Nasional.md",
     "Notulensi/Integrasi Sistem KLH.md",
     "Notulensi/Integrasi Sistem Informasi Gambut.md",
-    "Catatan/Sample Catatan.md",
     "Notulensi/Pembahasan SRN-Sistem Registri Unit Karbon.md",
     "Notulensi/Pembahasan Teknis Integrasi Chatbot SDMO dan Server KLH.md",
     "Notulensi/Pembahasan Web SPARING.md",
@@ -249,10 +266,6 @@
     "Notulensi/Rapat Integrasi SIPSN dan WCC.md",
     "Notulensi/Rapat Integrasi AMDALNET - SIMPEL dan SIMPEL Tematik.md",
     "Notulensi/Penyampaian Teknis Migrasi TTE.md",
-    "Notulensi/Pengelolaan Teknologi Informasi KLH-BPLH.md",
-    "Notulensi/Pengadaan Infrastruktur Jaringan.md",
-    "Notulensi/Pembahasan Rencana Pelaksanaan Backup Data Sistem Informasi PPKL.md",
-    "Task/Index.base",
     "Task/_views/agenda-default.base",
     "Task/_views/calendar-default.base",
     "Task/_views/mini-calendar-default.base",
