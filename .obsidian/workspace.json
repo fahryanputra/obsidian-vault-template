@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0c25ef9c5d25e0",
+        "id": "2e87c5a29cbcee66",
         "type": "tabs",
         "children": [
           {
-            "id": "fff7623ca3dc9940",
+            "id": "f0e08b8cbc1c2250",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "_templates/Template Notulensi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Task/Index.base",
+                "viewName": "All Tasks"
               },
-              "icon": "lucide-file",
-              "title": "Template Notulensi"
+              "icon": "tasknotes-simple",
+              "title": "Index"
             }
           }
         ]
@@ -48,10 +37,13 @@
             "id": "a320d1a6cfb29991",
             "type": "leaf",
             "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "type": "bases",
+              "state": {
+                "file": "Index.base",
+                "viewName": "MoC"
+              },
+              "icon": "lucide-table",
+              "title": "Index"
             }
           },
           {
@@ -93,8 +85,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "1bf49ed929c32f9d",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,81 +203,82 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
+      "notebook-navigator:Notebook Navigator": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "tasknotes:Create new task": false,
-      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open mini calendar": true,
       "tasknotes:Open advanced calendar": false,
-      "notebook-navigator:Notebook Navigator": true,
-      "tasknotes:Open task list": false,
-      "tasknotes:Open agenda": false,
+      "tasknotes:Open task list": true,
+      "tasknotes:Open agenda": true,
       "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro": false,
-      "tasknotes:Open pomodoro stats": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": true
+      "tasknotes:Open pomodoro": true,
+      "tasknotes:Open pomodoro stats": true,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a320d1a6cfb29991",
+  "active": "1bf49ed929c32f9d",
   "lastOpenFiles": [
-    "Harian/Index.md",
+    "Catatan/Halo Pusdatin Web App.md",
+    "Catatan/IT Security Assessment by Pusdatin KLH-BPLH.md",
     "Catatan/Index.md",
-    "Notulensi/Index.md",
-    "Index.base",
-    "Task/Index.base",
+    "Catatan/Dokumentasi Proses Bisnis Pusdatin KLH.md",
+    "Catatan/Simulasi Serangan dan Pertahanan.md",
+    "Catatan/OWASP Testing Methodology.md",
+    "Catatan/Keamanan Infrastruktur dan Akses Sistem.md",
+    "Catatan/Data Privacy dan UU PDP.md",
+    "Catatan/Prosedur Penetration Testing.md",
+    "Task/_views/kanban-default.base",
+    "Task/Buat rancangan prosedur penetration testing.md",
     "Task/Buat fitur kirim nomor tiket via email.md",
-    "Catatan/Halo Pusdatin Website.md",
+    "Task/Index.base",
+    "Task/Buat daftar layanan pusdatin yang membutuhkan dokumentasi.md",
+    "_attachments/Dokumentasi Proses Bisnis Pusdatin KLH-2.jpg",
+    "_attachments/Dokumentasi Proses Bisnis Pusdatin KLH-1.jpg",
+    "_attachments/Paparan ITSA.pdf",
+    "_attachments/IT Security Assessment by Pusdatin KLH-BPLH-2.pdf",
+    "Task/_views/calendar-default.base",
+    "Index.base",
+    "Task/_views/agenda-default.base",
+    "Task/_views/mini-calendar-default.base",
+    "Notulensi/Index.md",
+    "_attachments/IT Security Assessment by Pusdatin KLH-BPLH-1.pdf",
+    "Catatan/Brankas/Account.md",
+    "_attachments/Account-1.png",
+    "Catatan/Brankas",
+    "Harian/2026/Sample Harian.md",
+    "Harian/Index.md",
+    "README.md",
     "Notulensi/Bimbingan Teknis Zoom dan DNS Lokal.md",
+    "Catatan/Halo Pusdatin Website.md",
+    "_templates/Template Notulensi.md",
     "Notulensi/Evaluasi Penyelenggaraan Tim Tanggap Insiden Siber (TTIS).md",
     "Catatan/Sample Catatan.md",
     "Notulensi/Intervensi Pengelolaan Sampah di Tingkat Nasional.md",
     "Notulensi/Integrasi Sistem KLH.md",
     "Notulensi/Integrasi Sistem Informasi Gambut.md",
-    "Notulensi/Pembahasan SRN-Sistem Registri Unit Karbon.md",
-    "Notulensi/Pembahasan Teknis Integrasi Chatbot SDMO dan Server KLH.md",
-    "Notulensi/Pembahasan Web SPARING.md",
-    "Harian/2026/Sample Harian.md",
-    "Notulensi/Waste Crisis Master Plan.md",
     "_attachments/Waste Crisis Master Plan-1.png",
-    "Notulensi/Tindak Lanjut Pembahasan Pengaduan dan Monitoring pada Website KLH-BPLH.md",
-    "Notulensi/Sistem Pemantauan Sanksi Administrasi.md",
-    "Notulensi/Sistem Informasi Geospasial KLH-BPLH.md",
     "_attachments/Sistem Informasi Geospasial KLH-BPLH-4.jpeg",
     "_attachments/Sistem Informasi Geospasial KLH-BPLH-3.jpeg",
     "_attachments/Sistem Informasi Geospasial KLH-BPLH-2.jpeg",
     "_attachments/Sistem Informasi Geospasial KLH-BPLH-1.jpeg",
-    "Notulensi/Rumah Data Keanekaragaman Hayati Indonesia.md",
     "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-6.png",
     "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-5.png",
-    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-4.png",
-    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-3.png",
-    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-2.png",
-    "Notulensi/Rapat PTI-Kapusdatin.md",
-    "Notulensi/Rapat Internal PTI-Kapusdatin.md",
-    "Notulensi/Rapat Integrasi SIPSN dan WCC.md",
-    "Notulensi/Rapat Integrasi AMDALNET - SIMPEL dan SIMPEL Tematik.md",
-    "Notulensi/Penyampaian Teknis Migrasi TTE.md",
-    "Task/_views/agenda-default.base",
-    "Task/_views/calendar-default.base",
-    "Task/_views/mini-calendar-default.base",
-    "Task/_views/kanban-default.base",
     "Canvas/Untitled.canvas",
-    "Kanvas",
-    "Catatan/Sample Catatan2.canvas",
-    "Excalidraw",
-    "Catatan/Untitled.base",
-    "Task/_views/relationships.base"
+    "Catatan/Sample Catatan2.canvas"
   ]
 }

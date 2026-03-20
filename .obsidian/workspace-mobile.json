@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "c86e492ca3434c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eabd1996aa4c89e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b02c89ea49eba36",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Index.base",
+                "viewName": "MoC"
+              },
+              "icon": "lucide-table",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffd42a0af3a9762b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0156cf2be285492b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "fc4d9e4875b0c6db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4e0d92b52166f57a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "0369de958e651140",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "7215cd85b91fc740",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "987c2f86adde719b",
+        "type": "leaf",
+        "state": {
+          "type": "notebook-navigator",
+          "state": {},
+          "icon": "notebook-navigator",
+          "title": "Notebook Navigator"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "right": {
+    "id": "8c0ba5c4a783f2e2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0a2f2582d41834bf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Index.base",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b42233f9aaae114f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Harian/Index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "16cc1370ff878472",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Harian/Index.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "omnisearch:Omnisearch": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1b02c89ea49eba36",
+  "lastOpenFiles": [
+    "Harian/Index.md",
+    "Catatan/Index.md",
+    "Notulensi/Index.md",
+    "Task/Index.base",
+    "Catatan/Halo Pusdatin App.md",
+    "Task/_views/kanban-default.base",
+    "Task/Buat fitur kirim nomor tiket via email.md",
+    "Notulensi/Bimbingan Teknis Zoom dan DNS Lokal.md",
+    "Notulensi/Waste Crisis Master Plan.md",
+    "Notulensi/Tindak Lanjut Pembahasan Pengaduan dan Monitoring pada Website KLH-BPLH.md",
+    "Notulensi/Sistem Pemantauan Sanksi Administrasi.md",
+    "Notulensi/Sistem Informasi Geospasial KLH-BPLH.md",
+    "Notulensi/Rumah Data Keanekaragaman Hayati Indonesia.md",
+    "Notulensi/Rapat PTI-Kapusdatin.md",
+    "Notulensi/Rapat Internal PTI-Kapusdatin.md",
+    "Notulensi/Rapat Integrasi SIPSN dan WCC.md",
+    "Notulensi/Rapat Integrasi AMDALNET - SIMPEL dan SIMPEL Tematik.md",
+    "Notulensi/Penyampaian Teknis Migrasi TTE.md",
+    "Notulensi/Pengelolaan Teknologi Informasi KLH-BPLH.md",
+    "Notulensi/Pengadaan Infrastruktur Jaringan.md",
+    "Notulensi/Pembahasan Web SPARING.md",
+    "Notulensi/Pembahasan Teknis Integrasi Chatbot SDMO dan Server KLH.md",
+    "Notulensi/Pembahasan SRN-Sistem Registri Unit Karbon.md",
+    "Notulensi/Pembahasan Rencana Pelaksanaan Backup Data Sistem Informasi PPKL.md",
+    "Notulensi/Pemaparan Bisnis Proses Pembangunan Sistem Registri Unit Karbon.md",
+    "Notulensi/Master Plan Integrasi Sistem Informasi PSLB3.md",
+    "Notulensi/Kick off Meeting Pelaksanaan Penilaian Mandiri Maturitas Penyelenggaraan SPIP Terintegrasi.md",
+    "Notulensi/Intervensi Pengelolaan Sampah di Tingkat Nasional.md",
+    "_attachments/Waste Crisis Master Plan-1.png",
+    "_attachments/Sistem Informasi Geospasial KLH-BPLH-4.jpeg",
+    "_attachments/Sistem Informasi Geospasial KLH-BPLH-3.jpeg",
+    "_attachments/Sistem Informasi Geospasial KLH-BPLH-2.jpeg",
+    "_attachments/Sistem Informasi Geospasial KLH-BPLH-1.jpeg",
+    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-6.png",
+    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-5.png",
+    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-4.png",
+    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-3.png",
+    "_attachments/Rumah Data Keanekaragaman Hayati Indonesia-2.png"
+  ]
+}

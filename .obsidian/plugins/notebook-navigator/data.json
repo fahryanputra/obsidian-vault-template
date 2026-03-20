@@ -15,7 +15,11 @@
       "hiddenFolders": [
         "_*"
       ],
-      "hiddenTags": [],
+      "hiddenTags": [
+        "index",
+        "readme",
+        "secret"
+      ],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
       "hiddenFileProperties": [],
@@ -109,7 +113,7 @@
   "cmdCtrlEnterOpenContext": "split",
   "startView": "files",
   "showInfoButtons": true,
-  "homepage": "Index.base",
+  "homepage": null,
   "mobileHomepage": null,
   "useMobileHomepage": false,
   "dualPane": true,
@@ -198,7 +202,7 @@
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
   "includeDescendantNotes": false,
-  "defaultFolderSort": "title-asc",
+  "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
   "revealFileOnListChanges": true,
@@ -443,18 +447,12 @@
       }
     ]
   },
-  "customVaultName": "Template",
+  "customVaultName": "Vault",
   "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
-  "folderIcons": {
-    "Kanvas": "image",
-    "Task": "check-circle",
-    "Harian": "calendar",
-    "Catatan": "sticky-note",
-    "Notulensi": "notebook-pen"
-  },
+  "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
@@ -505,13 +503,13 @@
   ],
   "lastShownVersion": "2.5.1",
   "rootFolderOrder": [
-    "Task",
     "Harian",
+    "Task",
     "Catatan",
     "Notulensi",
-    "Kanvas",
     "_attachments",
-    "_templates"
+    "_templates",
+    "Kanvas"
   ],
   "rootTagOrder": [],
   "rootPropertyOrder": []
