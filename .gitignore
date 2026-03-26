@@ -1,0 +1,6 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/*.log
+.obsidian/plugins/*/.cache
+.obsidian/graph.json
+Thumbs.db
